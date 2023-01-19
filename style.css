@@ -9,7 +9,8 @@ body {
 }
 
 nav {
-  background-color: rgb(12, 218, 218);
+  background-color: rgb(104, 111, 111);
+  /* background-color: rgb(12, 218, 218); */
   color: white;
   padding: 20px 50px;
 }
@@ -57,7 +58,8 @@ nav {
 }
 
 .slider {
-  background: url("https://images.unsplash.com/photo-1604147495798-57beb5d6af73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80");
+  background: url("https://i.ibb.co/fH6JrxZ/Material-2-4d470f76dc99e18ad75087b1b8410ea9.jpg");
+  /* background: url("https://images.unsplash.com/photo-1604147495798-57beb5d6af73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"); */
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
   overflow: hidden;
 }
@@ -129,7 +131,7 @@ nav {
 }
 
 .sliderItem:nth-child(1) .sliderBg {
-  background-color: #868584;
+  background-color: rgb(174, 241, 241);
 }
 .sliderItem:nth-child(2) .sliderBg {
   background-color: rebeccapurple;
